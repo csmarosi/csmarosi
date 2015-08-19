@@ -1,0 +1,12 @@
+---
+layout: post
+title: Hello World
+---
+
+This is my first textile lines, for copy-pasting myself later.
+<pre>
+#!/usr/bin/env python3
+
+print("Hello World!")
+</pre>
+!http://imgs.xkcd.com/comics/python.png!
