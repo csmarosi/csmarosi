@@ -1,7 +1,7 @@
 ###########
 # site.title, site.url, site.author.name
 
-title:   'Another Blog'
+title:   'A Blog'
 author:
   name:  'csmarosi'
 
@@ -30,3 +30,5 @@ exclude:
 safe: true
 lsi: false
 
+gems:
+- jekyll-mentions
